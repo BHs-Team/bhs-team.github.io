@@ -13,7 +13,7 @@
 1. Orded List Item 1
 2. Orded List Item 2
 
-[BH's 3D Files](https://bh-playz.github.io/3d-files/)
+[BH's 3D Files](https://bh-playz.github.io/3d-Files/)
 
 ```
 // TurboScript
