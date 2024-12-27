@@ -1,0 +1,12 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="40" height="40" rx="15" fill="#191919"/>
+<rect x="22.8284" y="14.3432" width="4" height="11" transform="rotate(45 22.8284 14.3432)" fill="white"/>
+<path d="M17.1716 25.6569L14.3431 22.8284L13.9302 24.8931C13.7903 25.5928 14.4072 26.2097 15.1069 26.0698L17.1716 25.6569Z" fill="white"/>
+<path d="M24.2426 12.9289C24.6331 12.5384 25.2663 12.5384 25.6568 12.9289L27.071 14.3431C27.4616 14.7337 27.4616 15.3668 27.071 15.7574L26.3639 16.4645L23.5355 13.636L24.2426 12.9289Z" fill="white"/>
+<rect x="16" y="14" width="2" height="2" rx="1" transform="rotate(-180 16 14)" fill="white"/>
+<rect x="18" y="16" width="2" height="2" rx="1" transform="rotate(-180 18 16)" fill="white"/>
+<rect x="14" y="16" width="2" height="2" rx="1" transform="rotate(-180 14 16)" fill="white"/>
+<rect x="16" y="18" width="2" height="2" rx="1" transform="rotate(-180 16 18)" fill="white"/>
+<rect x="28" y="26" width="6" height="2" rx="1" transform="rotate(-180 28 26)" fill="white"/>
+<rect x="24" y="28" width="6" height="2" rx="1" transform="rotate(-90 24 28)" fill="white"/>
+</svg>
