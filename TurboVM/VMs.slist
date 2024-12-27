@@ -1,1 +1,1 @@
-["PolyVM V2 (Specs: PIXaPOLY BIOS V3, OS(es): PolyOS 6, 6 Lite and newer)","PolyVM V1 (Specs: PIXaPOLY BIOS V2, OS(es): PolyOS Classic-5)","JloVM V2 (Specs: Unknown BIOS, OS(es): Anything newer than ScratchOS 3)","JloVM V1 (Specs: Unknown BIOS, OS(es): Scratch OS 2-3)","Basic EFI (Specs: ScratchEFI, OS(es): Anything that supports the SEFI bootloader."]
+["PolyVM-V2","PolyVM-V1","JloVM-V2","JloVM-V1","EFI"]
